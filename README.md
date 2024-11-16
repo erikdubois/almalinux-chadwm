@@ -33,4 +33,4 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 # Examples
 
 ![Alt text](almalinux-1.png)
-
+![Alt text](almalinux-2.png)
